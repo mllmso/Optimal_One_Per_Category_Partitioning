@@ -1,0 +1,33 @@
+===============================================================
+  OPC SOLUTION VALIDATOR (minimal)
+===============================================================
+Root: C:/www
+
+Optimal_One_Per_Category_Partitioning/c10-m100/range_1-10000/date.2026-03-03/non-uniform/JSON/t38469_values.json
+  Expected: C=10, M=100, subsets=100, min=38468, max=38469, discrepancy=1; optimal: true
+
+Optimal_One_Per_Category_Partitioning/c10-m100/range_1-10000/date.2026-03-03/uniform/JSON/t50307_values.json
+  Expected: C=10, M=100, subsets=100, min=50306, max=50307, discrepancy=1; optimal: true
+
+Optimal_One_Per_Category_Partitioning/c10-m1000/range_1-10000/date.2026-03-03/non-uniform/JSON/t36652_values.json
+  Expected: C=10, M=1000, subsets=1000, min=36651, max=36652, discrepancy=1; optimal: true
+
+Optimal_One_Per_Category_Partitioning/c10-m1000/range_1-10000/date.2026-03-03/uniform/JSON/t50217_values.json
+  Expected: C=10, M=1000, subsets=1000, min=50216, max=50217, discrepancy=1; optimal: true
+
+Optimal_One_Per_Category_Partitioning/c20-m50/range_1-10000/date.2026-03-03/non-uniform/JSON/t81184_values.json
+  Expected: C=20, M=50, subsets=50, min=81183, max=81184, discrepancy=1; optimal: true
+
+Optimal_One_Per_Category_Partitioning/c20-m50/range_1-10000/date.2026-03-03/uniform/JSON/t100613_values.json
+  Expected: C=20, M=50, subsets=50, min=100612, max=100613, discrepancy=1; optimal: true
+
+Optimal_One_Per_Category_Partitioning/c25-m25/range_1-10000/date.2026-03-03/non-uniform/JSON/t101358_values.json
+  Expected: C=25, M=25, subsets=25, min=101357, max=101358, discrepancy=1; optimal: true
+
+Optimal_One_Per_Category_Partitioning/c25-m25/range_1-10000/date.2026-03-03/uniform/JSON/t125696_values.json
+  Expected: C=25, M=25, subsets=25, min=125695, max=125696, discrepancy=1; optimal: true
+
+
+===============================================================
+Summary: checked=8, optimal=8, errors=0
+===============================================================

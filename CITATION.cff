@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: If you use this benchmark dataset in your research, please cite it as follows.
+
+authors:
+- family-names: mllmso
+  given-names: ""
+  orcid: https://orcid.org/0009-0005-3698-7366
+
+title: Optimal One-Per-Category Partitioning
+version: 1.0.0
+type: dataset
+license: CC-BY-NC-4.0
+
+url: https://github.com/mllmso/Optimal_One_Per_Category_Partitioning
+
+
