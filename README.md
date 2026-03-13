@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1180897860.svg)](https://doi.org/10.5281/zenodo.19006557)
+
 # Optimal_One_Per_Category_Partitioning
 
 **Author**: [mllmso](https://orcid.org/0009-0005-3698-7366)
